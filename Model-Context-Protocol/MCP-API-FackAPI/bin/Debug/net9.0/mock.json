@@ -1,0 +1,30 @@
+{
+  "Products": [
+    {
+      "Id": 1,
+      "Name": "Agentic AI Book",
+      "Price": 180
+    },
+    {
+      "Id": 2,
+      "Name": "LLM Book",
+      "Price": 150
+    }
+  ],
+  "Orders": [
+    {
+      "Id": 1,
+      "Name": "Book Order - 1",
+      "Product": 2,
+      "Quantity": 3,
+      "TotalPrice": 450
+    },
+    {
+      "Id": 2,
+      "Name": "Book Order - 2",
+      "Product": 1,
+      "Quantity": 10,
+      "TotalPrice": 1000
+    }
+  ]
+}

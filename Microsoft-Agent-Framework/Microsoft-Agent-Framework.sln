@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agent-With-Deployed-Models-In-AzureOpenAI", "Agent-With-Deployed-Models-In-AzureOpenAI\Agent-With-Deployed-Models-In-AzureOpenAI.csproj", "{270C5126-D4C2-4585-8236-64D65469E421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient-With-Deployed-Models-In-GitHub", "ChatClient-With-Deployed-Models-In-GitHub\ChatClient-With-Deployed-Models-In-GitHub.csproj", "{DAE62F81-3477-4E70-8262-98FC874A1BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agent-As-MCP-Tool", "Agent-As-MCP-Tool\Agent-As-MCP-Tool.csproj", "{EAB490D7-C727-4993-BE4F-50A43C9E2473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enable-Observability", "Enable-Observability\Enable-Observability.csproj", "{15A0C833-00F6-4585-895F-D66FA8FA5B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persisting-Conversations", "Persisting-Resuming-Agent-Conversations\Persisting-Conversations.csproj", "{422979B3-7E55-47A3-9D43-3F2CFFA25256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third-Party-Chat-History-Storage", "Third-Party-Chat-History-Storage\Third-Party-Chat-History-Storage.csproj", "{F18515D0-D9DB-4B3F-BAFA-B4A3859E9011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adding-Memory-To-Agent", "Adding-Memory-To-Agent\Adding-Memory-To-Agent.csproj", "{4B9B9C58-97D8-4508-8F73-C1971A0391F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "Plugins\Plugins.csproj", "{6C01A555-F5B5-425F-994D-B13118ECFCD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adding-Middleware", "Adding-Middleware\Adding-Middleware.csproj", "{5DE218C6-6B30-4370-9432-C6B6FDE2A56C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using-MCP-Tool-With-Agents", "Using-MCP-Tool\Using-MCP-Tool-With-Agents.csproj", "{77FCC0E0-D0E7-4C5D-BF53-B6FC6964E45E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-Custom-MCP-Server", "Create-Custom-MCP-Server\Create-Custom-MCP-Server.csproj", "{5CB06143-408C-4297-A0B6-E988BFF26280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{270C5126-D4C2-4585-8236-64D65469E421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270C5126-D4C2-4585-8236-64D65469E421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270C5126-D4C2-4585-8236-64D65469E421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270C5126-D4C2-4585-8236-64D65469E421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE62F81-3477-4E70-8262-98FC874A1BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE62F81-3477-4E70-8262-98FC874A1BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE62F81-3477-4E70-8262-98FC874A1BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE62F81-3477-4E70-8262-98FC874A1BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAB490D7-C727-4993-BE4F-50A43C9E2473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB490D7-C727-4993-BE4F-50A43C9E2473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB490D7-C727-4993-BE4F-50A43C9E2473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB490D7-C727-4993-BE4F-50A43C9E2473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A0C833-00F6-4585-895F-D66FA8FA5B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A0C833-00F6-4585-895F-D66FA8FA5B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A0C833-00F6-4585-895F-D66FA8FA5B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A0C833-00F6-4585-895F-D66FA8FA5B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422979B3-7E55-47A3-9D43-3F2CFFA25256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422979B3-7E55-47A3-9D43-3F2CFFA25256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422979B3-7E55-47A3-9D43-3F2CFFA25256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422979B3-7E55-47A3-9D43-3F2CFFA25256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18515D0-D9DB-4B3F-BAFA-B4A3859E9011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18515D0-D9DB-4B3F-BAFA-B4A3859E9011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18515D0-D9DB-4B3F-BAFA-B4A3859E9011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18515D0-D9DB-4B3F-BAFA-B4A3859E9011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9B9C58-97D8-4508-8F73-C1971A0391F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9B9C58-97D8-4508-8F73-C1971A0391F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9B9C58-97D8-4508-8F73-C1971A0391F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9B9C58-97D8-4508-8F73-C1971A0391F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C01A555-F5B5-425F-994D-B13118ECFCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C01A555-F5B5-425F-994D-B13118ECFCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C01A555-F5B5-425F-994D-B13118ECFCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C01A555-F5B5-425F-994D-B13118ECFCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE218C6-6B30-4370-9432-C6B6FDE2A56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE218C6-6B30-4370-9432-C6B6FDE2A56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE218C6-6B30-4370-9432-C6B6FDE2A56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE218C6-6B30-4370-9432-C6B6FDE2A56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FCC0E0-D0E7-4C5D-BF53-B6FC6964E45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FCC0E0-D0E7-4C5D-BF53-B6FC6964E45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FCC0E0-D0E7-4C5D-BF53-B6FC6964E45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FCC0E0-D0E7-4C5D-BF53-B6FC6964E45E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB06143-408C-4297-A0B6-E988BFF26280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB06143-408C-4297-A0B6-E988BFF26280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB06143-408C-4297-A0B6-E988BFF26280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB06143-408C-4297-A0B6-E988BFF26280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F02C217-C901-4745-A835-5BB761025A69}
+	EndGlobalSection
+EndGlobal

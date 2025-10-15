@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MCP-API-FackAPI\\MCP-API-FackAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MCP-API-MCPServer\\MCP-API-MCPServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MCP-API-MCPServer-HttpTransport\\MCP-API-MCPServer-HttpTransport.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

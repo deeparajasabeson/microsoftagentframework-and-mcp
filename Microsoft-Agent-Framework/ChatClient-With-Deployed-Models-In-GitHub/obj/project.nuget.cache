@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "yK4nC3GByUo=",
+  "success": true,
+  "projectFilePath": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\Microsoft-Agent-Framework\\ChatClient-With-Deployed-Models-In-GitHub\\ChatClient-With-Deployed-Models-In-GitHub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.47.3\\azure.core.1.47.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.16.0\\azure.identity.1.16.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.agents.ai\\1.0.0-preview.251001.3\\microsoft.agents.ai.1.0.0-preview.251001.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.agents.ai.abstractions\\1.0.0-preview.251001.3\\microsoft.agents.ai.abstractions.1.0.0-preview.251001.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.ai\\9.9.1\\microsoft.extensions.ai.9.9.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.9.1\\microsoft.extensions.ai.abstractions.9.9.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.ai.openai\\9.9.1-preview.1.25474.6\\microsoft.extensions.ai.openai.9.9.1-preview.1.25474.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.9\\microsoft.extensions.caching.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.9\\microsoft.extensions.logging.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.9\\microsoft.extensions.primitives.9.0.9.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.identity.client\\4.76.0\\microsoft.identity.client.4.76.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.76.0\\microsoft.identity.client.extensions.msal.4.76.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\openai\\2.5.0\\openai.2.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.clientmodel\\1.6.1\\system.clientmodel.1.6.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.9\\system.diagnostics.diagnosticsource.9.0.9.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

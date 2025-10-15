@@ -1,0 +1,8 @@
+C:\Deepa\Learning\AI-ML\.Net Core\Microsoft-Agent-Framework\MCP-Server-With-OAuth2\obj\Debug\net9.0\MCP-Server-With-OAuth2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deepa\Learning\AI-ML\.Net Core\Microsoft-Agent-Framework\MCP-Server-With-OAuth2\obj\Debug\net9.0\MCP-Server-With-OAuth2.AssemblyInfoInputs.cache
+C:\Deepa\Learning\AI-ML\.Net Core\Microsoft-Agent-Framework\MCP-Server-With-OAuth2\obj\Debug\net9.0\MCP-Server-With-OAuth2.AssemblyInfo.cs
+C:\Deepa\Learning\AI-ML\.Net Core\Microsoft-Agent-Framework\MCP-Server-With-OAuth2\obj\Debug\net9.0\MCP-Server-With-OAuth2.csproj.CoreCompileInputs.cache
+C:\Deepa\Learning\AI-ML\.Net Core\Model-Context-Protocol\MCP-Server-With-OAuth2\obj\Debug\net9.0\MCP-Server-With-OAuth2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deepa\Learning\AI-ML\.Net Core\Model-Context-Protocol\MCP-Server-With-OAuth2\obj\Debug\net9.0\MCP-Server-With-OAuth2.AssemblyInfoInputs.cache
+C:\Deepa\Learning\AI-ML\.Net Core\Model-Context-Protocol\MCP-Server-With-OAuth2\obj\Debug\net9.0\MCP-Server-With-OAuth2.AssemblyInfo.cs
+C:\Deepa\Learning\AI-ML\.Net Core\Model-Context-Protocol\MCP-Server-With-OAuth2\obj\Debug\net9.0\MCP-Server-With-OAuth2.csproj.CoreCompileInputs.cache
