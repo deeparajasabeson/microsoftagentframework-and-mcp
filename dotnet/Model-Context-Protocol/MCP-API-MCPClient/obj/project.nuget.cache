@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0NPY1OIum0s=",
+  "dgSpecHash": "Gv9Q5grirTw=",
   "success": true,
-  "projectFilePath": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\Model-Context-Protocol\\MCP-API-MCPClient\\MCP-API-MCPClient.csproj",
+  "projectFilePath": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\microsoftagentframework-and-mcp\\dotnet\\Model-Context-Protocol\\MCP-API-MCPClient\\MCP-API-MCPClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.ai.openai\\2.3.0-beta.2\\azure.ai.openai.2.3.0-beta.2.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.47.3\\azure.core.1.47.3.nupkg.sha512",

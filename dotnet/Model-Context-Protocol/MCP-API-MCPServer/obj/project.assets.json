@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\Model-Context-Protocol\\MCP-API-MCPServer\\MCP-API-MCPServer.csproj",
+      "projectUniqueName": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\microsoftagentframework-and-mcp\\dotnet\\Model-Context-Protocol\\MCP-API-MCPServer\\MCP-API-MCPServer.csproj",
       "projectName": "MCP-API-MCPServer",
-      "projectPath": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\Model-Context-Protocol\\MCP-API-MCPServer\\MCP-API-MCPServer.csproj",
+      "projectPath": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\microsoftagentframework-and-mcp\\dotnet\\Model-Context-Protocol\\MCP-API-MCPServer\\MCP-API-MCPServer.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\Model-Context-Protocol\\MCP-API-MCPServer\\obj\\",
+      "outputPath": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\microsoftagentframework-and-mcp\\dotnet\\Model-Context-Protocol\\MCP-API-MCPServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

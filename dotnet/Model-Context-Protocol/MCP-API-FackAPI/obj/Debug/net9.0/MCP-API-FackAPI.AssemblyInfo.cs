@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MCP-API-FackAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9829131457b742203c414e1f5b0a21766848aeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MCP-API-FackAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MCP-API-FackAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

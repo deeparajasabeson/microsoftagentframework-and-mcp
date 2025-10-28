@@ -19,6 +19,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCP-Server-With-OAuth2", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOAuthServer", "TestOAuthServer\TestOAuthServer.csproj", "{BC099648-DD90-9B59-6D0A-E11521CE5D91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCP-Client-Calculator", "MCP-Client-Calculator\MCP-Client-Calculator.csproj", "{244DA89C-1802-D7F6-BF9F-288032E72FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCP-Server-Calculator", "MCP-Server-Calculator\MCP-Server-Calculator.csproj", "{A91D6EB2-FD5B-A0B7-4963-36A4A21A07C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCP-Client-Zomato", "MCP-Client-Zomato\MCP-Client-Zomato.csproj", "{73D1BD88-196E-4746-AC08-919CA6CE42A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCP-Client-GitHub", "MCP-Client-GitHub\MCP-Client-GitHub.csproj", "{D97A2EB7-A33A-4485-BB49-6D08DA7D3C2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +65,22 @@ Global
 		{BC099648-DD90-9B59-6D0A-E11521CE5D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC099648-DD90-9B59-6D0A-E11521CE5D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC099648-DD90-9B59-6D0A-E11521CE5D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244DA89C-1802-D7F6-BF9F-288032E72FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244DA89C-1802-D7F6-BF9F-288032E72FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244DA89C-1802-D7F6-BF9F-288032E72FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244DA89C-1802-D7F6-BF9F-288032E72FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91D6EB2-FD5B-A0B7-4963-36A4A21A07C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91D6EB2-FD5B-A0B7-4963-36A4A21A07C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91D6EB2-FD5B-A0B7-4963-36A4A21A07C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91D6EB2-FD5B-A0B7-4963-36A4A21A07C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D1BD88-196E-4746-AC08-919CA6CE42A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D1BD88-196E-4746-AC08-919CA6CE42A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D1BD88-196E-4746-AC08-919CA6CE42A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D1BD88-196E-4746-AC08-919CA6CE42A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97A2EB7-A33A-4485-BB49-6D08DA7D3C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97A2EB7-A33A-4485-BB49-6D08DA7D3C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97A2EB7-A33A-4485-BB49-6D08DA7D3C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97A2EB7-A33A-4485-BB49-6D08DA7D3C2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

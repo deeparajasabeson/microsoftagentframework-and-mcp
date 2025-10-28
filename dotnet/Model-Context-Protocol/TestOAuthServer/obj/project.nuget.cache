@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XLd1poZ5ZUs=",
+  "dgSpecHash": "xscnTD+xjvc=",
   "success": true,
-  "projectFilePath": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\Model-Context-Protocol\\TestOAuthServer\\TestOAuthServer.csproj",
+  "projectFilePath": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\microsoftagentframework-and-mcp\\dotnet\\Model-Context-Protocol\\TestOAuthServer\\TestOAuthServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.9\\microsoft.aspnetcore.authentication.jwtbearer.9.0.9.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

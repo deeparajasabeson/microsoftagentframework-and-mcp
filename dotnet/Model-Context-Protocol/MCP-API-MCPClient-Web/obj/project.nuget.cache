@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QIt5pZsoJfU=",
+  "dgSpecHash": "zriRatX6Tr0=",
   "success": true,
-  "projectFilePath": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\Model-Context-Protocol\\MCP-API-MCPClient-Web\\MCP-API-MCPClient-Web.csproj",
+  "projectFilePath": "C:\\Deepa\\Learning\\AI-ML\\.Net Core\\microsoftagentframework-and-mcp\\dotnet\\Model-Context-Protocol\\MCP-API-MCPClient-Web\\MCP-API-MCPClient-Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.6.0\\microsoft.extensions.ai.abstractions.9.6.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
