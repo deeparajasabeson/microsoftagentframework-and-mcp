@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MCP-Server-1\\MCP-Server-Calculator.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MCP-Client-Zomato\\MCP-Client-Calculator.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
