@@ -30,6 +30,8 @@ async def process_expenses_data(prompt, expenses_data):
     # -----------------
     # Agent Initialization
     # -----------------
+    from agent_framework.devui import serve
+
     async with (
         AzureCliCredential() as credential,
         ChatAgent(
@@ -46,9 +48,12 @@ async def process_expenses_data(prompt, expenses_data):
             # Add the input prompt to a list of messages to be submitted
             prompt_messages = [f"{prompt}: {expenses_data}"]
             # Invoke the agent for the specified thread with the messages
-            response = await agent.run(prompt_messages)
+            #response = await agent.run(prompt_messages)
             # Display the response
-            print(f"\n# Agent:\n{response}")
+            #print(f"\n# Agent:\n{response}")
+
+            # Launch server with the agent
+            serve(entities=[agent], port=8090, auto_open=True)
         except Exception as e:
             # Something went wrong
             print (e)
